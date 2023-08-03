@@ -22,6 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
+        This is my first app deployed on a cloud service with Vercel!
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
