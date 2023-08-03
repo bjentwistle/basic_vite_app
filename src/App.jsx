@@ -21,9 +21,8 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <p>
-        This is my first app deployed on a cloud service with Vercel!
-          Edit <code>src/App.jsx</code> and save to test HMR
+        <p>This is my first app deployed on a cloud service with Vercel!</p>
+          <p> Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
       <p className="read-the-docs">
